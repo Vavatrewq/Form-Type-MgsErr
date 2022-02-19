@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validando um formulário (usando classe)</title>
+    <link rel="stylesheet" href="../style/style.css">
+</head>
+<body>
+    
+    <header>
+        <div class="form">
+            <form action="" method="get">
+                <section>
+                    <p>Nenhum campo pode estar vazio</p>
+                    <p>Usuário só poderá conter letras e/ou números</p>
+                    <p>Usuário deverá ter entre 4 e 12 caracteres</p>
+                    <p>Senha precisa entre 6 e 12 caracteres</p>
+                </section>
+                    <input class="name" type="text" name="text" placeholder="Nome">
+                    <p class="name-msg"></p>
+
+                    <input class="name-two"type="text" name="text" placeholder="Sobrenome">
+                    <p class="nameTow-msg"></p>
+
+                    <input class="cpf" type="text" name="text" placeholder="CPF">
+                    <p class="cpf-msg"></p>
+                    <p class="cpf-msgTwo"></p>
+
+                    <input class="user-person" type="text" name="text" placeholder="Usuário">
+                    <p class="user-msg"></p>
+
+                    <input class="pink-user" type="text" name="text" placeholder="Senha">
+                    <p class="pink-msg"></p>
+
+                    <input class="pink-userTwo" type="text" name="text" placeholder="Repetir Senha">
+                    <p class="pinkTwo-msg"></p>
+
+                <button class="btn">Enviar</button>
+            </form>
+        </div>
+        <div class="img-box"></div>
+    </header>
+
+    <script type="module" src="../script/script.js"></script>
+</body>
+</html>
