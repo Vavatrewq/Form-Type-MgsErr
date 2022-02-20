@@ -7,7 +7,6 @@ export function createValidationCpf(cpfValue){
                     return cpfEnviar.replace(/\D+/g, '');
                 } 
             })
-            
         };
 
         toAllow(){
