@@ -1,5 +1,4 @@
 export function createValidationCpf(cpfValue){
-
     class ValidationCpf{
         constructor(cpfEnviar){
             Object.defineProperty(this, 'cpfClear', {
