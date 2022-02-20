@@ -5,4 +5,4 @@
 #### -> Ideia: Luiz Otávio Mirando.
 #### -> Feito: Wagner De Souza Mendes.
 
-![Exemplo](https://github.com/Vavatrewq/Form-Type-MgsErr/blob/master/src/gif/AnimaçãoFunc.gif);
+![Exemplo](https://github.com/Vavatrewq/Form-Type-MgsErr/blob/master/src/gif/AnimaçãoFunc.gif)
