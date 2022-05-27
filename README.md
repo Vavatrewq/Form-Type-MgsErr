@@ -1,4 +1,4 @@
-<h1 align="center">Exercico-TypeScript</h1>
+<h1 align="center">Exercício-TypeScript</h1>
 
 <h2 align="center">Projeto Validação de Cadastro Mensagem de Erro / Primeiro Projeto TypeScript</h2>
 
