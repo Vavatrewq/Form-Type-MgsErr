@@ -4,10 +4,13 @@
 
 <h2 align="center">Projeto Desenvolvido no curso Udemy Luiz Otávio Miranda.</h2>
 
-<h2>Objetivo:</h2>
-<p>Desenvolver aplicação em TypeScript ainda estou aprendendo qualquer melhora é de grande ajuda.</p>
+
 
 <div align="center">
+  
+<h2>Objetivo:</h2>
+<p>Desenvolver aplicação em TypeScript ainda estou aprendendo qualquer melhora é de grande ajuda.</p>
+  
 <h2>Funcionalidades:</h2>
 <ul>
  <li>Disparos de Erros</li>
