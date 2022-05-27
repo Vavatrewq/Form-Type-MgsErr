@@ -18,7 +18,7 @@
 <ul>
   
 <h2>Ferramentas de Criação Principal:</h2>
-<p>HTML | CSS | TYPESCRIPT | ESLINT | WEBPACK | ETC... </p>
+<p>HTML | CSS | JS/TYPESCRIPT | ESLINT | WEBPACK | ETC... </p>
 </div>
 </br>
 
