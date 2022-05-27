@@ -9,7 +9,7 @@
 
 <h2>Funcionalidades:</h2>
 <ul>
- <li>Tisparos de Erros</li>
+ <li>Disparos de Erros</li>
  <li>Responsividade.</li>
 <ul>
   
